@@ -1,0 +1,11 @@
+
+	Homework CA.
+1. និយាយពីដំណើរការរបស់ keypad, DHT11 and Ultrasonic Sensor?
+2. What is IOT? គេប្រើសម្រាប់ធ្វើអ្វី?
+	IOT is Internet of thing. ការប្រើប្រាស់វាគឺមានលក្ខណះទូលំទូលាយមានដូចជា​​ ការបង្កើត​ smart voice, smart phone, smart device
+3. See code and hard of :led, button, lcd, Python with arduino board, Traffic light? And see python from start slide to class?
+ll. Write code to : 
+1. Create Funtion to print binar(Asm and Python).
+2. Adds array x dw 1000,2000,3000,4000,5000 (asm and python)
+3. on/off led on relay and sensor TCRT5000 (IR sensor) to control 5 led (Micropython and Wokwi)
+4. Testing keypad to display number keypad from 1 to F on console screen (Micropython and Wokwi)
